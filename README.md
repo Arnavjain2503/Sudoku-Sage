@@ -64,7 +64,7 @@ Follow these steps to install and run the Sudoku Solver App:
 
 1. Clone this repository:  
    ```bash
-   git clone https://github.com/Arnavjain2503/sudoku-solver-app.git
+   git clone https://github.com/Arnavjain2503/Sudoku-Sage.git
    ```
 
 2. Open the project in **Android Studio**.
