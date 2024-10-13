@@ -2,7 +2,7 @@
 
 The **Sudoku Solver App** is a sleek, efficient Android app designed to help users solve Sudoku puzzles. It comes with dynamic themes, real-time error handling, and an intuitive interface. Whether you are a Sudoku beginner or an enthusiast, this app simplifies puzzle-solving with its powerful backtracking algorithm.
 
-
+[MainActivity.java](app%2Fsrc%2Fmain%2Fjava%2Fcom%2Fexample%2Fsudokusolver%2FMainActivity.java)
 ## Table of Contents
 
 - [Features](#features)
